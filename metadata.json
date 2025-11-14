@@ -1,0 +1,7 @@
+{
+  "name": "MONEEZ",
+  "description": "A professional financial website to help users organize their financial life, reduce waste, and properly distribute their money. Features include a professional dashboard, custom categories, automatic budget allocation, expense tracking, goals, reports, and AI-powered recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
